@@ -1,0 +1,36 @@
+Jul  1 11:31:00: main: Command pipe created
+Jul  1 11:31:00: main: Initializing Ocsipersist-dbm...
+Jul  1 11:31:00: main: Launching a new Ocsidbm process: /home/xinuo/.opam/4.00.1/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/graffiti/ocsipersist.
+Jul  1 11:31:01: main: ...Initialization of Ocsipersist-dbm complete
+Jul  1 11:31:01: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "xinuo-VirtualBox"
+Jul  1 11:31:01: main: Ocsigen has been launched (initialisations ok)
+Jul  1 11:41:12: main: Initializing Ocsipersist-dbm...
+Jul  1 11:41:12: main: Launching a new Ocsidbm process: /home/xinuo/.opam/4.00.1/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/graffiti/ocsipersist.
+Jul  1 11:41:13: main: ...Initialization of Ocsipersist-dbm complete
+Jul  1 11:41:13: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "xinuo-VirtualBox"
+Jul  1 11:41:13: main: Ocsigen has been launched (initialisations ok)
+Jul  1 11:42:21: main: Initializing Ocsipersist-dbm...
+Jul  1 11:42:21: main: Launching a new Ocsidbm process: /home/xinuo/.opam/4.00.1/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/graffiti/ocsipersist.
+Jul  1 11:42:22: main: ...Initialization of Ocsipersist-dbm complete
+Jul  1 11:42:22: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "xinuo-VirtualBox"
+Jul  1 11:42:22: main: Ocsigen has been launched (initialisations ok)
+Jul  1 11:42:57: main: Initializing Ocsipersist-dbm...
+Jul  1 11:42:57: main: Launching a new Ocsidbm process: /home/xinuo/.opam/4.00.1/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/graffiti/ocsipersist.
+Jul  1 11:42:58: main: ...Initialization of Ocsipersist-dbm complete
+Jul  1 11:42:58: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "xinuo-VirtualBox"
+Jul  1 11:42:58: main: Ocsigen has been launched (initialisations ok)
+Jul  1 13:43:22: main: Initializing Ocsipersist-dbm...
+Jul  1 13:43:22: main: Launching a new Ocsidbm process: /home/xinuo/.opam/4.00.1/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/graffiti/ocsipersist.
+Jul  1 13:43:23: main: ...Initialization of Ocsipersist-dbm complete
+Jul  1 13:43:23: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "xinuo-VirtualBox"
+Jul  1 13:43:23: main: Ocsigen has been launched (initialisations ok)
+Jul  1 14:20:51: main: Initializing Ocsipersist-dbm...
+Jul  1 14:20:51: main: Launching a new Ocsidbm process: /home/xinuo/.opam/4.00.1/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/graffiti/ocsipersist.
+Jul  1 14:20:52: main: ...Initialization of Ocsipersist-dbm complete
+Jul  1 14:20:52: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "xinuo-VirtualBox"
+Jul  1 14:20:52: main: Ocsigen has been launched (initialisations ok)
+Jul  1 16:08:33: main: Initializing Ocsipersist-dbm...
+Jul  1 16:08:33: main: Launching a new Ocsidbm process: /home/xinuo/.opam/4.00.1/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/graffiti/ocsipersist.
+Jul  1 16:08:35: main: ...Initialization of Ocsipersist-dbm complete
+Jul  1 16:08:35: main: While parsing config file, tag <host>: No defaulthostname, assuming it is "xinuo-VirtualBox"
+Jul  1 16:08:35: main: Ocsigen has been launched (initialisations ok)
